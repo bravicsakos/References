@@ -26,6 +26,7 @@ References for CV
 These are little sketches made because of interest in the language or the actual task.
 
 **_PictureToParticles_**
+
   **The goal:**
       Loading an image, making each pixel black or white based on their hue and creating particles of the black pixels with physics and         steering behaviors.
       
@@ -38,6 +39,7 @@ These are little sketches made because of interest in the language or the actual
    - The Processing enviroments draw function which draws shapes on the screen can't handle too many drawn objects so it causes huge       FPS drops on larger particle counts
       
 **_TextToParticles_**
+
   **The goal:**
       Writing text on the keyboard and rendering the characters with points as particles.
       
@@ -51,6 +53,7 @@ These are little sketches made because of interest in the language or the actual
    - ENTER: new line
       
 **_TheGameOfLife_**
+
   **The goal:**
       Making John Conway's Game of Life 'cellular automaton'.
       
