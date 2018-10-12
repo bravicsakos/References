@@ -12,7 +12,7 @@ References for CV
   - Rescaling the image for multiple resolutions with value interpolation
   - Projects: create project folders for different images and load the already processed ones at will
   - Small resolution preview of the full image
-  - The full scale view rendres four images and can be moved with the arrow keys
+  - The full scale view renders four images and can be moved with the arrow keys
   - INI configuration file for easy access
   - Sequence based data structure for the saved information
   
