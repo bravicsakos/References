@@ -31,8 +31,8 @@ These are little sketches made because of interest in the language or the actual
       Loading an image, making each pixel black or white based on their hue and creating particles of the black pixels with physics and         steering behaviors.
       
   **Features**
-   - Loading an image and making some of its pixels particles
-   - Eploding the whole picture by moving the particles into a random location one by one or at the same time
+   - Loading an image and making some of its black pixels into particles
+   - Exploding the whole picture by moving the particles into a random location one by one or at the same time
    - Rearranging the particles to their original position making the picture again
       
   **Problems:**
