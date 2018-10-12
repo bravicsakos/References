@@ -25,23 +25,23 @@ References for CV
 
 These are little sketches made because of interest in the language or the actual task.
 
-  **PictureToParticles**
-  -The goal:
+**_PictureToParticles_**
+  **The goal:**
       Loading an image, making each pixel black or white based on their hue and creating particles of the black pixels with physics and         steering behaviors.
       
-  -Features:
+  **Features**
    - Loading an image and making some of its pixels particles
    - Eploding the whole picture by moving the particles into a random location one by one or at the same time
    - Rearranging the particles to their original position making the picture again
       
-  -Problems:
+  **Problems:**
    - The Processing enviroments draw function which draws shapes on the screen can't handle too many drawn objects so it causes huge       FPS drops on larger particle counts
       
-  **TextToParticles**
-  -The goal:
+**_TextToParticles_**
+  **The goal:**
       Writing text on the keyboard and rendering the characters with points as particles.
       
-  -Features:
+  **Features:**
    - Writing characters on the keyboard makes random placed particles on the screen
    - Right Arrow: adds physics to the particles present
    - Down Arrow: adds the original location in the text as target location to the particles
@@ -50,11 +50,11 @@ These are little sketches made because of interest in the language or the actual
    - '.' character: deletes the old characters
    - ENTER: new line
       
-  **TheGameOfLife**
-  -The goal:
+**_TheGameOfLife_**
+  **The goal:**
       Making John Conway's Game of Life 'cellular automaton'.
       
-  -Features:
+  **Features:**
    - The base Game of Life game
    - Drawing with mouse
    - Coloring of cells: they start as yellow and the longer they live the more red they become
