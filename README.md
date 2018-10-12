@@ -58,7 +58,7 @@ These are little sketches made because of interest in the language or the actual
       Making John Conway's Game of Life 'cellular automaton'.
       
   **Features:**
-   - The base Game of Life game
+   - The base 'Game of Life' game
    - Drawing with mouse
    - Coloring of cells: they start as yellow and the longer they live the more red they become
    - Coloring of the cells' paths: the path which the cells take turns grey and dissapears with time
