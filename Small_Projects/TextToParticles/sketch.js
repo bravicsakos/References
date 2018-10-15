@@ -66,7 +66,6 @@ function keyTyped(){
        lastPos = 0;
        isNew = false;
      }
-       textSize(textsize);
        var points = font.textToPoints("" + key.toUpperCase(),0,0);
        for (var i = 0; i < points.length; i++){
          var v = new Vehicle(points[i].x + translateX + offset,points[i].y + translateY);
